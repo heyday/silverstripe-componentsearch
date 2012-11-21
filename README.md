@@ -1,5 +1,7 @@
 #Heyday silverstripe-componentsearch
 
+Enables you to create reusable search components
+
 ##License
 
 Component Search image is licensed under an [MIT license](http://heyday.mit-license.org/)
